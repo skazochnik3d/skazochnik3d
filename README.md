@@ -13,8 +13,8 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 
 ## Software
 
-![Maya](https://img.shields.io/badge/Maya-2025-37A5CC?style=flat-square)
-![Blender](https://img.shields.io/badge/Blender-4.x-E87D0D?style=flat-square)
+![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square)
 ![Substance Painter](https://img.shields.io/badge/Substance_3D_Painter-FF6A00?style=flat-square)
 ![ZBrush](https://img.shields.io/badge/ZBrush-202000?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
