@@ -21,7 +21,7 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 
 ## My tools
 
-- **Bake Manager** — create bake setups, automatic naming, autoassignment and organization maps.
+- **Bake Manager** — create bake setups, automatic naming, autoassignment and organization maps in Substance Painter.
 
 ## Portfolio & Contacts
 
