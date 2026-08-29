@@ -1,6 +1,6 @@
 # Hi, I'm Pavel 👋
 
-### 3D Vehicle Artist & Maya Tools Developer
+### 3D Vehicle Artist & Tools Developer
 
 I create realistic vehicles and hard-surface assets for games, while also developing tools that automate repetitive 3D production tasks.
 
@@ -19,12 +19,9 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 ![ZBrush](https://img.shields.io/badge/ZBrush-202000?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Featured tools
+## My tools
 
-- **Maya Scene Checker** — checks UV sets, locked normals and construction history
-- **Mesh Renamer** — renames meshes based on their parent groups
-- **Maya–Blender Bridge** — exports selected assets and reloads updated FBX files
-- **UV Workflow Tools** — automates cutting, unfolding, texel density and packing
+- **Bake Manager** — create bake setups, automatic naming, autoassignment and organization maps.
 
 ## Portfolio & Contacts
 
