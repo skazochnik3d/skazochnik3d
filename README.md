@@ -23,7 +23,7 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 
 - **Bake Manager** — create bake setups, automatic naming, autoassignment and organization maps in Substance Painter.
 
-## Portfolio & Contacts
+## Contacts
 
 [ArtStation](ССЫЛКА_НА_ARTSTATION) •
 [LinkedIn](https://www.linkedin.com/in/pavel-rasskazchikov-73641b275) •
