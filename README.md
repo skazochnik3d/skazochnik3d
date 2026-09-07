@@ -34,6 +34,6 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 
 ## Contacts
 
-<img width="900" height="900" alt="Image" src="https://github.com/user-attachments/assets/c7a1beaa-261c-40b7-a3eb-61cedde220d7" />[ArtStation](ССЫЛКА_НА_ARTSTATION) •
+<img width="18" height="18" alt="Image" src="https://github.com/user-attachments/assets/c7a1beaa-261c-40b7-a3eb-61cedde220d7" />[ArtStation](ССЫЛКА_НА_ARTSTATION) •
 [LinkedIn](https://www.linkedin.com/in/pavel-rasskazchikov-73641b275) •
 [Telegram](https://t.me/skazik79)
