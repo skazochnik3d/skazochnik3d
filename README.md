@@ -23,8 +23,6 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 
 - **Bake Manager** — create bake setups, automatic naming, autoassignment and organization maps in Substance Painter.
 
-<h2 align="center">My Plugins</h2>
-
 <p align="center">
   <a href="https://github.com/skazochnik3d/Bake-Manager/releases/latest">
     <img
