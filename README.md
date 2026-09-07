@@ -7,8 +7,8 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 ## About me
 
 - 🚛 Specialized in vehicles and hard-surface assets
-- 🎮 Experience with game-ready HP/LP production pipelines
-- 🛠️ Developing Python and MEL tools for Autodesk Maya
+- 🎮 Experience with game-ready production pipelines
+- 🛠️ Developing Python tools
 - ⚙️ Interested in workflow automation and pipeline development
 
 ## Software
