@@ -40,4 +40,4 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-rasskazchikov-73641b275) [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?logo=artstation&logoColor=white)](https://www.artstation.com/pachanya) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/skazik79) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:skazik79@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-rasskazchikov-73641b275) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/skazik79) [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?logo=artstation&logoColor=white)](https://www.artstation.com/pachanya) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:skazik79@gmail.com)
