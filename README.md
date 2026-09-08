@@ -39,16 +39,5 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-rasskazchikov-73641b275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skazik79@gmail.com) 
 
-<p align="left">
-  <a href="https://t.me/skazik79">
-    <img src="https://img.shields.io/badge/Telegram-@skazik79-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://github.com/skazochnik3d">
-    <img src="https://img.shields.io/badge/GitHub-skazochnik3d-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.artstation.com/pachanya">
-    <img src="https://img.shields.io/badge/ArtStation-pachanya-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-rasskazchikov-73641b275) [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?logo=artstation&logoColor=white)](https://www.artstation.com/pachanya) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/skazik79) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:skazik79@gmail.com)
