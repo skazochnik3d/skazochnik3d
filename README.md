@@ -19,7 +19,7 @@ I create realistic vehicles and hard-surface assets for games, while also develo
   <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white" alt="Maya">
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/ZBrush-5C5C5C?style=for-the-badge&logoColor=white" alt="ZBrush">
-  <img src="https://img.shields.io/badge/Substance%203D%20Painter-1E1E1E?style=for-the-badge&logo=adobesubstance3d&logoColor=white" alt="Substance 3D Painter">
+  <img src="https://img.shields.io/badge/Substance%203D%20Painter-173F2A?style=for-the-badge&logo=adobesubstance3d&logoColor=A6E22E" alt="Substance 3D Painter">
   <img src="https://img.shields.io/badge/Marmoset%20Toolbag-D71920?style=for-the-badge&logoColor=white" alt="Marmoset Toolbag">
   <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop">
   <img src="https://img.shields.io/badge/Marvelous%20Designer-E59A24?style=for-the-badge&logoColor=white" alt="Marvelous Designer">
@@ -39,9 +39,9 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 </p>
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-rasskazchikov-73641b275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skazik79@gmail.com) 
 
 <p align="left">
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-rasskazchikov-73641b275)
   <a href="https://t.me/skazik79">
     <img src="https://img.shields.io/badge/Telegram-@skazik79-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
