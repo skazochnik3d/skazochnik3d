@@ -13,11 +13,17 @@ I create realistic vehicles and hard-surface assets for games, while also develo
 
 ## Software
 
-![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square)
-![Substance Painter](https://img.shields.io/badge/Substance_3D_Painter-FF6A00?style=flat-square)
-![ZBrush](https://img.shields.io/badge/ZBrush-202000?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## Software:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white" alt="Maya">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/ZBrush-151515?style=for-the-badge&logoColor=white" alt="ZBrush">
+  <img src="https://img.shields.io/badge/Substance%203D%20Painter-1E1E1E?style=for-the-badge&logo=adobesubstance3d&logoColor=white" alt="Substance 3D Painter">
+  <img src="https://img.shields.io/badge/Marmoset%20Toolbag-E59A24?style=for-the-badge&logoColor=white" alt="Marmoset Toolbag">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Marvelous%20Designer-D71920?style=for-the-badge&logoColor=white" alt="Marvelous Designer">
+</p>
 
 ## My tools
 
@@ -32,8 +38,19 @@ I create realistic vehicles and hard-surface assets for games, while also develo
   </a>
 </p>
 
-## Contacts
+## 🌐 Socials:
 
-<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/c7a1beaa-261c-40b7-a3eb-61cedde220d7" />[ArtStation](ССЫЛКА_НА_ARTSTATION) •
-[LinkedIn](https://www.linkedin.com/in/pavel-rasskazchikov-73641b275) •
-[Telegram](https://t.me/skazik79)
+<p align="left">
+   <a href="https://www.linkedin.com/in/pavel-rasskazchikov-73641b275">
+    <img src="https://img.shields.io/badge/LinkedIn-Pavel%20Rasskazchikov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/skazik79">
+    <img src="https://img.shields.io/badge/Telegram-@skazik79-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://github.com/skazochnik3d">
+    <img src="https://img.shields.io/badge/GitHub-skazochnik3d-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.artstation.com/pachanya">
+    <img src="https://img.shields.io/badge/ArtStation-pachanya-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation">
+  </a>
+</p>
