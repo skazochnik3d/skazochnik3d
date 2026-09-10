@@ -22,8 +22,7 @@ I create realistic vehicles and hard-surface assets for games, while also develo
   <img src="https://img.shields.io/badge/Substance%203D%20Painter-173F2A?style=for-the-badge&logo=adobesubstance3d&logoColor=A6E22E" alt="Substance 3D Painter">
   <img src="https://img.shields.io/badge/Marmoset%20Toolbag-D71920?style=for-the-badge&logoColor=white" alt="Marmoset Toolbag">
   <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop">
-  <img src="https://img.shields.io/badge/Marvelous%20Designer-E59A24?style=for-the-badge&logoColor=white" alt="Marvelous Designer">
-</p>
+  </p>
 
 ## My tools
 
